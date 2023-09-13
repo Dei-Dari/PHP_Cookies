@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "PHP_Cookies", "PHP_Cookies.phpproj", "{B0710478-78BC-4251-BA44-DD0FBDE480E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0710478-78BC-4251-BA44-DD0FBDE480E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0710478-78BC-4251-BA44-DD0FBDE480E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0710478-78BC-4251-BA44-DD0FBDE480E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0710478-78BC-4251-BA44-DD0FBDE480E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A917F160-B18C-406F-88C6-9D9503577EB0}
+	EndGlobalSection
+EndGlobal
